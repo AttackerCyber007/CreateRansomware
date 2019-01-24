@@ -14,13 +14,12 @@ $ sh Ransomware.sh
 
 
 
+# Facebook: https://www.facebook.com/Kevin.malware.5
+
+# Tutorial: https://youtu.be/kr9q09IgeQ0
+
+# Whatsapp: 08994422616
+
+# Donate: 198Huw7EMM7RpzoMXTSpqiicmCNuxcc53K
 
 
-# Program ini di Ciptakan dengan tujuan tunggal untuk membuat
-# kerusakan sebagai cracker. Jika Anda ingin mengubah
-# ransomware ke .exe Anda Boleh melakukannya, pengetahuan
-# ini Gratis.
-
-# Dibuat
-
-# 5H311_1NJ3C706
