@@ -1,14 +1,14 @@
 # Create-Trojan-Builder
 
-$ apt update && apt upgrade
+# $ apt update && apt upgrade
 
-$ apt install git
+# $ apt install git
 
-$ git clone https://github.com/DarkNet-Hacker-Team/CreateTrojan
+# $ git clone https://github.com/DarkNet-Hacker-Team/CreateTrojan
 
-$ cd CreateTrojan
+# $ cd CreateTrojan
 
-$ sh Ransomware.sh
+# $ sh Ransomware.sh
 
 
 
